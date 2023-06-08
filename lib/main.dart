@@ -18,8 +18,8 @@ class BMICalculator extends StatelessWidget {
         ),
         scaffoldBackgroundColor: Color(0xff0a0e21),
         textTheme: const TextTheme(
-          displayLarge: TextStyle(fontSize: 45.0, fontWeight: FontWeight.bold),
-          titleLarge: TextStyle(fontSize: 25.0, fontStyle: FontStyle.normal),
+          displayLarge: TextStyle(fontSize: 40.0, fontWeight: FontWeight.bold),
+          titleLarge: TextStyle(fontSize: 20.0, fontStyle: FontStyle.normal),
           bodyMedium: TextStyle(fontSize: 15.0, fontFamily: 'Roboto'),
         ),
       ),
